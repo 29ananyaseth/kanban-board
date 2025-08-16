@@ -5,6 +5,13 @@ Think of it as a lightweight **Trello clone** — great for learning **React sta
 
 ---
 
+## Deployment Link:
+
+https://kanban-board-bice-theta.vercel.app/
+
+---
+
+
 ## ✨ Features
 - ➕ **Add tasks** into the **To Do** column  
 - ✏️ **Edit tasks** inline  
